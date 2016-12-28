@@ -1,0 +1,2 @@
+autocmd! BufReadPost COMMIT_EDITMSG set omnifunc=commitcomplete#CompleteCommitMessageType
+
